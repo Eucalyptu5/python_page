@@ -3,7 +3,7 @@
 - Variablen sind PLatzhalter, dem Werte zugewiesen werden können
 - zur Wiederverwendung an späterer Stelle im Programm
 
-```bash
+```
 x = 50
 
 print("Die Variable hat den Wert" , x ,)
