@@ -1,4 +1,4 @@
-# Blogpost: Boolean in Python
+# Blogpost: Booleans in Python
 
 - Booleans sind Wahrheitswerte
 - `True` oder `False`
