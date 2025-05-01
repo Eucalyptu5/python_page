@@ -1,5 +1,12 @@
 """
 Dies ist das Skript, um alles gelernte über Variablen in Paython auf GitHub zu dokumentieren
+
+Variablen sind PLatzhalter, dem Werte zugewiesen werden können
+zur Wiederverwendung an späterer Stelle im Programm
+x = 50
+
+print("Die Variable hat den Wert" , x ,)
+
 """
 
 # Eine erste Variable definieren. In diesem Fall haben wir die Variable x als eine ganze Zahl (int) definiert.
