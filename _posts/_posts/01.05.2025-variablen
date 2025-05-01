@@ -1,1 +1,8 @@
+# Variablen in Python
 
+- Variablen sind PLatzhalter, dem Werte zugewiesen werden können
+- zur Wiederverwendung an späterer Stelle im Programm
+
+```bash
+x = y
+```
