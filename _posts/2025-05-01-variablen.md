@@ -5,7 +5,9 @@
 
 
 
-Eine erste Variable definieren. In diesem Fall haben wir die Variable x als eine ganze Zahl (int) definiert.
+Wir definieren eine erste Variable. In diesem Fall haben wir die Variable x als eine ganze Zahl (int) definiert.
+
+Mit einem = wird in Python einer Variable ein bestimmter Wert zugewiesen.
 
 ```bash
 x = 50
