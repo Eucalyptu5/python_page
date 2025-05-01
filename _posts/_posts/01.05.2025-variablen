@@ -4,5 +4,7 @@
 - zur Wiederverwendung an späterer Stelle im Programm
 
 ```bash
-x = y
+x = 50
+
+print("Die Variable hat den Wert" , x ,)
 ```
