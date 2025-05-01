@@ -1,6 +1,6 @@
 # Dies ist der Blogpost, um alles gelernte über Variablen in Paython auf GitHub zu dokumentieren
 
-- Variablen sind PLatzhalter, dem Werte zugewiesen werden können
+- Variablen sind Platzhalter, dem Werte zugewiesen werden können
 - zur Wiederverwendung an späterer Stelle im Programm
 
 
