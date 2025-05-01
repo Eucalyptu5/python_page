@@ -1,4 +1,4 @@
-# DBlogpost: Variablen in Python 
+# Blogpost: Variablen in Python 
 
 - Variablen sind Platzhalter, dem Werte zugewiesen werden können
 - zur Wiederverwendung an späterer Stelle im Programm
