@@ -1,4 +1,4 @@
-# Dies ist der Blogpost, um alles gelernte über Variablen in Paython auf GitHub zu dokumentieren
+# DBlogpost: Variablen in Python 
 
 - Variablen sind Platzhalter, dem Werte zugewiesen werden können
 - zur Wiederverwendung an späterer Stelle im Programm
