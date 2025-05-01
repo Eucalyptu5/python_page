@@ -19,5 +19,7 @@ Python geht das Skript immer von oben nach unten durch, daher ist es notwendig d
 Als Beispiel kann man mit der Funktion print die Variable sich einfach ausgeben lassen. 
 
 ```bash
+x = 50
+
 print(x)
 ```
