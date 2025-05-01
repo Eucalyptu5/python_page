@@ -18,7 +18,15 @@ Als Beispiel kann man mit der Funktion print die Variable sich einfach ausgeben 
 print(x)
 
 """
-2. Einfache Datentypen
+2. Einfache Datentypen: 
+
+
+
+"""
+
+
+
+"""
 3. Strings
 4. integer & float
 5. Boolean & if / else
